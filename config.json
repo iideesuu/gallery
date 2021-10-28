@@ -1679,6 +1679,88 @@
       "path": "./photos/Sekiro\u2122_ Shadows Die Twice/Sekiro\u2122_ Shadows Die Twice_20190403010221.jpg"
     }
   ],
+  "A Plague Tale: Innocence": [
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512210109.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512210109.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512210109.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509210822.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509210822.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509210822.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210510225833.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210510225833.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210510225833.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509235603.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509235603.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509235603.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512000029.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512000029.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512000029.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210510231052.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210510231052.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210510231052.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210511221038.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210511221038.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210511221038.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509203824.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509203824.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509203824.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509232123.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509232123.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210509232123.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512205419.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512205419.placeholder.jpg",
+      "path": "./photos/A Plague Tale: Innocence/A Plague Tale: Innocence_20210512205419.jpg"
+    }
+  ],
   "Metro Exodus": [
     {
       "height": 1080,
@@ -1985,88 +2067,6 @@
       "compressed": false,
       "placeholder_path": "./photos/BATMAN\u2122_ ARKHAM KNIGHT/BATMAN\u2122_ ARKHAM KNIGHT_20161202005501.placeholder.png",
       "path": "./photos/BATMAN\u2122_ ARKHAM KNIGHT/BATMAN\u2122_ ARKHAM KNIGHT_20161202005501.png"
-    }
-  ],
-  "A Plague Tale_ Innocence": [
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509232123.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509232123.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509232123.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512210109.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512210109.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512210109.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509210822.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509210822.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509210822.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512205419.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512205419.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512205419.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509203824.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509203824.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509203824.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210511221038.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210511221038.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210511221038.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512000029.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512000029.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210512000029.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509235603.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509235603.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210509235603.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210510231052.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210510231052.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210510231052.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210510225833.min.jpg",
-      "width": 1920,
-      "compressed": false,
-      "placeholder_path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210510225833.placeholder.jpg",
-      "path": "./photos/A Plague Tale_ Innocence/A Plague Tale_ Innocence_20210510225833.jpg"
     }
   ],
   "Assassin's Creed\u00ae Syndicate": [
